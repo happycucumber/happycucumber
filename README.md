@@ -40,7 +40,8 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=happycucumber&&style=flat-square)  
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=happycucumber&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>  
 
