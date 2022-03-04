@@ -29,11 +29,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=happycucumber&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=nightowl" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=happycucumber&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=nightowl" align="left" style="width: 90%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycucumber&layout=compact&hide=javascript,html,makefile,rich text format,assembly&hide_border=true&theme=nightowl" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycucumber&layout=compact&hide=javascript,html,makefile,rich text format,assembly&hide_border=true&theme=nightowl" align="left" style="width: 90%" />
 </td></tr></table>  
 
 <br/>  
