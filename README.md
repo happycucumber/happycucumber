@@ -33,7 +33,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycucumber&layout=compact&hide=javascript,html,assembly&theme=nightowl" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happycucumber&layout=compact&hide=javascript,html,assembly&hide_border=true&theme=nightowl" align="left" style="width: 100%" />
 </td></tr></table>  
 
 <br/>  
