@@ -55,7 +55,7 @@
 - undergraduate research student (2020~2021)  
   
 
-- SEOREU (2021.11~)  
+- SEOREU (2021.11~2023.01)  
   
 
   
